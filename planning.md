@@ -14,7 +14,7 @@
 ### first iteration:
 + display pretty board
     - grid? pure js? pure css?
-        - canvas seems like a go to
+        - canvas seems like a go to (drag and drop might be difficult tho)
     + display chess pieces
         - track their squares
         - draw images of them
